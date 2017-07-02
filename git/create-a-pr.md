@@ -4,7 +4,7 @@
 
 You can find a guide here:
 
-https://github.com/pachonk/guides/blob/master/git/fork-and-setup-remotes.md
+https://github.com/emerald-rubies/guides/blob/master/git/fork-and-setup-remotes.md
 
 ## Step 2: Create new feature branch
 
