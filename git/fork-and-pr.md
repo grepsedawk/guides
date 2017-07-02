@@ -49,3 +49,7 @@ git push
 ## Step 7: Submit Pull Request
 
 https://help.github.com/articles/creating-a-pull-request-from-a-fork/
+
+## Step 8: Repeat
+
+Repeat steps 4-7 for additional PRs
