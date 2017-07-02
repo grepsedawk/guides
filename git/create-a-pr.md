@@ -14,7 +14,7 @@ git checkout upstream/master
 git checkout -b my-branch-name
 ```
 
-## Stepi 3: Commit
+## Step 3: Commit
 
 ```bash
 git status
